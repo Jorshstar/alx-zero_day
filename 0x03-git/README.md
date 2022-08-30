@@ -1,1 +1,1 @@
-Some text for this readme
+I am learning programming at alx 
